@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monthly_budget">Monthly Budget*</string>
+    <string name="before_we_get_started">Before we get started</string>
+    <string name="set_up_your_budget">Set up your budget</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="name">Name</string>
+    <string name="debit">Debit</string>
+    <string name="item1">item1</string>
+    <string name="_27_july_2020">27 July, 2020</string>
+</resources>
